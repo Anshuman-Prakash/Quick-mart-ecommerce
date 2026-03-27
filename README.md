@@ -4,14 +4,6 @@
 
 ---
 
-## 🚀 Live Links
-
-- 🛍️ **User Frontend:** [https://quickmart-nine.vercel.app](https://quickmart-nine.vercel.app)  
-- 🔧 **Backend API:** [https://quickmart-backend-swart.vercel.app](https://quickmart-backend-swart.vercel.app)  
-- 🧑‍💼 **Admin Dashboard:** [https://quickmart-admin.vercel.app](https://quickmart-admin.vercel.app)
-
----
-
 ## 📚 Feature Topics
 
 - 🔐 JWT Authentication (Signup / Login / Logout)
